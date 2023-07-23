@@ -1,0 +1,102 @@
+[
+  {
+    "customer": {
+      "customerId": "f2b2674e-f2f5-48f4-b3d6-adae0b2d5832",
+      "customerFirstName": "June",
+      "customerLastName": "Greene",
+      "email": "rhodesmonroe@telequiet.com",
+      "phone": "+1 (898) 537-2398",
+      "gender": "male"
+    },
+    "adress": [
+      {
+        "id": "79fe8a3b-9893-4de4-8ac2-e3017c748a43",
+        "country": "Mauritius",
+        "state": "Wisconsin",
+        "city": "Winfred",
+        "street": "Story Street",
+        "customerId": "f2b2674e-f2f5-48f4-b3d6-adae0b2d5832"
+      }
+    ]
+  },
+  {
+    "customer": {
+      "customerId": "c035e7f5-10cc-490d-b4b4-9acd10d1ad9f",
+      "customerFirstName": "Angelina",
+      "customerLastName": "Levine",
+      "email": "wilkersonduffy@amtap.com",
+      "phone": "+1 (953) 585-3122",
+      "gender": "male"
+    },
+    "adress": [
+      {
+        "id": "3eff66dc-aa65-4c44-890d-649504bcceef",
+        "country": "Christmas Island",
+        "state": "Puerto Rico",
+        "city": "Bethpage",
+        "street": "Lake Place",
+        "customerId": "c035e7f5-10cc-490d-b4b4-9acd10d1ad9f"
+      }
+    ]
+  },
+  {
+    "customer": {
+      "customerId": "88c3971c-4f44-4fd1-b5fc-1d3aab6a5af7",
+      "customerFirstName": "Roslyn",
+      "customerLastName": "Witt",
+      "email": "dotsonbailey@zilch.com",
+      "phone": "+1 (980) 400-3327",
+      "gender": "male"
+    },
+    "adress": [
+      {
+        "id": "4c3ee1fc-5521-4097-8da4-1431e39d65f8",
+        "country": "Sudan",
+        "state": "Maine",
+        "city": "Gouglersville",
+        "street": "Stratford Road",
+        "customerId": "88c3971c-4f44-4fd1-b5fc-1d3aab6a5af7"
+      }
+    ]
+  },
+  {
+    "customer": {
+      "customerId": "c04ea148-b0cb-4b16-9eed-266a061ce8ae",
+      "customerFirstName": "Martinez",
+      "customerLastName": "Gross",
+      "email": "nanettepitts@gazak.com",
+      "phone": "+1 (964) 402-3400",
+      "gender": "female"
+    },
+    "adress": [
+      {
+        "id": "0bf703a1-6c31-4bad-a1e5-28a3b8165b9c",
+        "country": "Morocco",
+        "state": "Washington",
+        "city": "Elizaville",
+        "street": "Moore Street",
+        "customerId": "c04ea148-b0cb-4b16-9eed-266a061ce8ae"
+      }
+    ]
+  },
+  {
+    "customer": {
+      "customerId": "df637aeb-9c25-4092-b699-339fd83860a4",
+      "customerFirstName": "Eliza",
+      "customerLastName": "Nash",
+      "email": "guzmandunn@paprikut.com",
+      "phone": "+1 (911) 488-2260",
+      "gender": "male"
+    },
+    "adress": [
+      {
+        "id": "4d731652-5108-4f63-80c1-4fa07e0021c4",
+        "country": "Sierra Leone",
+        "state": "Michigan",
+        "city": "Jennings",
+        "street": "Leonora Court",
+        "customerId": "df637aeb-9c25-4092-b699-339fd83860a4"
+      }
+    ]
+  }
+]
